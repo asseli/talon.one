@@ -1,0 +1,14 @@
+{
+  "name": "talon",
+  "version": "1.0.0",
+  "description": "Solution for Talon.one",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Assel Ibragimova",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.6.0"
+  }
+}
